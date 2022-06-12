@@ -5,7 +5,6 @@
   margin: 0;
   padding: 0;
 }
-
 body {
     margin: 0;
     width: 100vw;
@@ -38,7 +37,6 @@ body {
     margin-right: 2.5vw;
     text-align: right;
 }
-
 
 .github, .img-div {
     display: flex;
@@ -114,10 +112,12 @@ body {
     font-size: 20px;
 }
 
-
+.color {
+    color: rgb(232, 8, 8);
+}
 
 @media screen and (min-width: 768px) {
- 
+
     .bio {
         font-size: 25px;
         margin: 3px 5px;
@@ -160,7 +160,7 @@ body {
     .color {
         color: rgb(232, 8, 8);
     }
-    
+   
     .username {
         width: 300px;
         height: 30px;

@@ -27,7 +27,7 @@ export default class Api {
           const article = `
               <article class="art color">
               <div class="img-div">
-              No veried user as ${username}. ${username} is yet to set up the account properly.
+              No verified user as ${username}. ${username} is yet to set up the account properly.
               </div>
               </article>
               `
