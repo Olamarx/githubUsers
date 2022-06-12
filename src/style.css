@@ -43,6 +43,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 .single {
     margin-top: 20px;
