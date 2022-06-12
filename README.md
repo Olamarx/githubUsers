@@ -31,7 +31,7 @@ In this project, I fetched/GET the data of GitHub users from GitHub API.
 
 ## Live Demo
 
-[Live Demo Link](https://olamarx.github.io/githubUsers/)
+[Live Demo Link](https://olamarx.github.io/githubUsers/dist/)
 
 
 ## Getting Started
