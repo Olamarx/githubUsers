@@ -31,8 +31,8 @@ In this project, I fetched/GET the data of GitHub users from GitHub API.
 
 ## Live Demo
 
-[Live Demo Link(GitHub Pages)](https://olamarx.github.io/githubUsers/dist/)
-[Live Demo Link(Vercel)](https://githubusers-eta.vercel.app/)
+- [Live Demo Link(GitHub Pages)](https://olamarx.github.io/githubUsers/dist/)
+- [Live Demo Link(Vercel)](https://githubusers-eta.vercel.app/)
 
 
 ## Getting Started
